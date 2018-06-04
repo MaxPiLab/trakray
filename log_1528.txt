@@ -1,0 +1,3229 @@
+ args 1 =  Starting
+Stage1
+Read from SPI_ID_R1: 00 00 00 00 00 E9  07  20  12 
+SPI Device is fine2
+Entering server Send 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 2 
+T2 - T1  - 5.524187 
+T3 -T2  - 0.000503 
+T4 -T3  - 0.000092 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 3 
+T2 - T1  - 5.253412 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000090 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 4 
+T2 - T1  - 14.074517 
+T3 -T2  - 0.000498 
+T4 -T3  - 0.000078 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 5 
+T2 - T1  - 6.708502 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000065 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 6 
+T2 - T1  - 3.070968 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 7 
+T2 - T1  - 0.875378 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000076 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 8 
+T2 - T1  - 2.083529 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000072 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 9 
+T2 - T1  - 12.281785 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000085 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 10 
+T2 - T1  - 0.394696 
+T3 -T2  - 0.000494 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 11 
+T2 - T1  - 3.382733 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 12 
+T2 - T1  - 23.662262 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000093 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 13 
+T2 - T1  - 11.904920 
+T3 -T2  - 0.000489 
+T4 -T3  - 0.000089 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 14 
+T2 - T1  - 14.308462 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000072 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 15 
+T2 - T1  - 5.162466 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000081 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 16 
+T2 - T1  - 2.291426 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000065 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 17 
+T2 - T1  - 8.904111 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000287 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 18 
+T2 - T1  - 0.238600 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 19 
+T2 - T1  - 5.344391 
+T3 -T2  - 0.000492 
+T4 -T3  - 0.000084 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 20 
+T2 - T1  - 6.058838 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000094 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 21 
+T2 - T1  - 0.316679 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 22 
+T2 - T1  - 12.359736 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000076 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 23 
+T2 - T1  - 4.292078 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000082 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 24 
+T2 - T1  - 7.318985 
+T3 -T2  - 0.000491 
+T4 -T3  - 0.000099 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 25 
+T2 - T1  - 12.853716 
+T3 -T2  - 0.000492 
+T4 -T3  - 0.000097 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 26 
+T2 - T1  - 3.902976 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000067 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 27 
+T2 - T1  - 3.565216 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000061 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 28 
+T2 - T1  - 0.031005 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000050 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 29 
+T2 - T1  - 0.771652 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 30 
+T2 - T1  - 2.291865 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 31 
+T2 - T1  - 24.276683 
+T3 -T2  - 0.000492 
+T4 -T3  - 0.000103 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 32 
+T2 - T1  - 5.514176 
+T3 -T2  - 0.000489 
+T4 -T3  - 0.000083 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 33 
+T2 - T1  - 1.733089 
+T3 -T2  - 0.000647 
+T4 -T3  - 0.000074 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 34 
+T2 - T1  - 6.189712 
+T3 -T2  - 0.000487 
+T4 -T3  - 0.000086 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 35 
+T2 - T1  - 3.954986 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 36 
+T2 - T1  - 4.058972 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000064 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 37 
+T2 - T1  - 5.553027 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000084 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 38 
+T2 - T1  - 1.694134 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000066 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 39 
+T2 - T1  - 17.923028 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000102 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 40 
+T2 - T1  - 0.511684 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000060 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 41 
+T2 - T1  - 0.628701 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 42 
+T2 - T1  - 15.155407 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000080 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 43 
+T2 - T1  - 10.438473 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000092 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 44 
+T2 - T1  - 11.582168 
+T3 -T2  - 0.000487 
+T4 -T3  - 0.000085 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 45 
+T2 - T1  - 0.862515 
+T3 -T2  - 0.000495 
+T4 -T3  - 0.000064 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 46 
+T2 - T1  - 6.034004 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000065 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 47 
+T2 - T1  - 1.226406 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 48 
+T2 - T1  - 0.121963 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000053 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 49 
+T2 - T1  - 0.147956 
+T3 -T2  - 0.000632 
+T4 -T3  - 0.000060 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 50 
+T2 - T1  - 2.356636 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000064 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 51 
+T2 - T1  - 0.420801 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 52 
+T2 - T1  - 7.333166 
+T3 -T2  - 0.000494 
+T4 -T3  - 0.000093 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 53 
+T2 - T1  - 2.681593 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000074 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 54 
+T2 - T1  - 1.616196 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000061 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 55 
+T2 - T1  - 15.935051 
+T3 -T2  - 0.000491 
+T4 -T3  - 0.000096 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 56 
+T2 - T1  - 19.858795 
+T3 -T2  - 0.000493 
+T4 -T3  - 0.000103 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 57 
+T2 - T1  - 6.241813 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000072 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 58 
+T2 - T1  - 4.864561 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000062 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 59 
+T2 - T1  - 7.736130 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000059 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 60 
+T2 - T1  - 14.102958 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000085 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 61 
+T2 - T1  - 0.758597 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 62 
+T2 - T1  - 0.225909 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000051 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 63 
+T2 - T1  - 5.903901 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000081 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 64 
+T2 - T1  - 0.771597 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000067 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 65 
+T2 - T1  - 3.980825 
+T3 -T2  - 0.000466 
+T4 -T3  - 0.000072 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 66 
+T2 - T1  - 3.097373 
+T3 -T2  - 0.000514 
+T4 -T3  - 0.000082 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 67 
+T2 - T1  - 2.759585 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 68 
+T2 - T1  - 4.682662 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000062 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 69 
+T2 - T1  - 63.789874 
+T3 -T2  - 0.000493 
+T4 -T3  - 0.000115 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 70 
+T2 - T1  - 11.023227 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000083 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 71 
+T2 - T1  - 16.363777 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000094 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 72 
+T2 - T1  - 13.232135 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000085 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 73 
+T2 - T1  - 2.655630 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000071 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 74 
+T2 - T1  - 0.316844 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 75 
+T2 - T1  - 1.759158 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 76 
+T2 - T1  - 0.537764 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 77 
+T2 - T1  - 5.514177 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000072 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 78 
+T2 - T1  - 11.647143 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000083 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 79 
+T2 - T1  - 5.111410 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000061 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 80 
+T2 - T1  - 7.983026 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000066 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 81 
+T2 - T1  - 0.407647 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000067 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 82 
+T2 - T1  - 1.421255 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000059 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 83 
+T2 - T1  - 12.387632 
+T3 -T2  - 0.000492 
+T4 -T3  - 0.000096 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 84 
+T2 - T1  - 4.149855 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 85 
+T2 - T1  - 5.020495 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000074 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 86 
+T2 - T1  - 0.238877 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 87 
+T2 - T1  - 10.711670 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000093 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 88 
+T2 - T1  - 1.915004 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000082 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 89 
+T2 - T1  - 0.082950 
+T3 -T2  - 0.000459 
+T4 -T3  - 0.000052 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 90 
+T2 - T1  - 0.862597 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 91 
+T2 - T1  - 0.290876 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 92 
+T2 - T1  - 13.673992 
+T3 -T2  - 0.000492 
+T4 -T3  - 0.000093 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 93 
+T2 - T1  - 9.490197 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000071 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 94 
+T2 - T1  - 0.043973 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000053 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 95 
+T2 - T1  - 0.277894 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000052 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 96 
+T2 - T1  - 2.369829 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 97 
+T2 - T1  - 0.979371 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000084 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 98 
+T2 - T1  - 1.746087 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000069 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 99 
+T2 - T1  - 3.448263 
+T3 -T2  - 0.000486 
+T4 -T3  - 0.000079 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 100 
+T2 - T1  - 1.525229 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000060 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 101 
+T2 - T1  - 0.576701 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 102 
+T2 - T1  - 1.356355 
+T3 -T2  - 0.000465 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 103 
+T2 - T1  - 0.251921 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000048 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 104 
+T2 - T1  - 0.849625 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 105 
+T2 - T1  - 1.486296 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000053 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 106 
+T2 - T1  - 2.148939 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 107 
+T2 - T1  - 1.863106 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 108 
+T2 - T1  - 1.044510 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000060 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 109 
+T2 - T1  - 0.940531 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000053 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 110 
+T2 - T1  - 5.618017 
+T3 -T2  - 0.000486 
+T4 -T3  - 0.000083 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 111 
+T2 - T1  - 0.446756 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 112 
+T2 - T1  - 0.485779 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000188 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 113 
+T2 - T1  - 1.642042 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000069 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 114 
+T2 - T1  - 1.499264 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 115 
+T2 - T1  - 0.511667 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 116 
+T2 - T1  - 0.966548 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 117 
+T2 - T1  - 0.225905 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000053 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 118 
+T2 - T1  - 2.642720 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000081 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 119 
+T2 - T1  - 0.433777 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 120 
+T2 - T1  - 0.173942 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000051 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 121 
+T2 - T1  - 7.632163 
+T3 -T2  - 0.000487 
+T4 -T3  - 0.000084 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 122 
+T2 - T1  - 1.317322 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000087 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 123 
+T2 - T1  - 0.004977 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000053 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 124 
+T2 - T1  - 3.201407 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000066 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 125 
+T2 - T1  - 1.603218 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 126 
+T2 - T1  - 0.043999 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000049 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 127 
+T2 - T1  - 0.862616 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 128 
+T2 - T1  - 3.383324 
+T3 -T2  - 0.000626 
+T4 -T3  - 0.000067 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 129 
+T2 - T1  - 2.564542 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 130 
+T2 - T1  - 0.667684 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000051 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 131 
+T2 - T1  - 0.628720 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000050 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 132 
+T2 - T1  - 0.849620 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000051 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 133 
+T2 - T1  - 4.851600 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000077 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 134 
+T2 - T1  - 9.697854 
+T3 -T2  - 0.000491 
+T4 -T3  - 0.000086 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 135 
+T2 - T1  - 0.108905 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 136 
+T2 - T1  - 0.057003 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000051 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 137 
+T2 - T1  - 1.512280 
+T3 -T2  - 0.000472 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 138 
+T2 - T1  - 0.446814 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 139 
+T2 - T1  - 37.763904 
+T3 -T2  - 0.000492 
+T4 -T3  - 0.000109 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 140 
+T2 - T1  - 0.108873 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 141 
+T2 - T1  - 2.330867 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 142 
+T2 - T1  - 0.472753 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 143 
+T2 - T1  - 2.863617 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 144 
+T2 - T1  - 0.394829 
+T3 -T2  - 0.000628 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 145 
+T2 - T1  - 23.977808 
+T3 -T2  - 0.000487 
+T4 -T3  - 0.000101 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 146 
+T2 - T1  - 0.706404 
+T3 -T2  - 0.000491 
+T4 -T3  - 0.000082 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 147 
+T2 - T1  - 0.238853 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 148 
+T2 - T1  - 0.641700 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 149 
+T2 - T1  - 0.888586 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 150 
+T2 - T1  - 1.122435 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 151 
+T2 - T1  - 0.498777 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000052 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 152 
+T2 - T1  - 3.760057 
+T3 -T2  - 0.000487 
+T4 -T3  - 0.000077 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 153 
+T2 - T1  - 3.591203 
+T3 -T2  - 0.000489 
+T4 -T3  - 0.000078 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 154 
+T2 - T1  - 3.045436 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 155 
+T2 - T1  - 0.771625 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 156 
+T2 - T1  - 0.031008 
+T3 -T2  - 0.000502 
+T4 -T3  - 0.000046 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 157 
+T2 - T1  - 2.122967 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000072 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 158 
+T2 - T1  - 1.252348 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 159 
+T2 - T1  - 1.044501 
+T3 -T2  - 0.000462 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 160 
+T2 - T1  - 0.407706 
+T3 -T2  - 0.000493 
+T4 -T3  - 0.000087 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 161 
+T2 - T1  - 0.251847 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 162 
+T2 - T1  - 0.264869 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000059 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 163 
+T2 - T1  - 4.188901 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000069 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 164 
+T2 - T1  - 2.811574 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000079 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 165 
+T2 - T1  - 4.877544 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 166 
+T2 - T1  - 2.798623 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 167 
+T2 - T1  - 4.565732 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 168 
+T2 - T1  - 0.472593 
+T3 -T2  - 0.000493 
+T4 -T3  - 0.000069 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 169 
+T2 - T1  - 2.889524 
+T3 -T2  - 0.000487 
+T4 -T3  - 0.000088 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 170 
+T2 - T1  - 1.551205 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000062 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 171 
+T2 - T1  - 6.527752 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000083 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 172 
+T2 - T1  - 1.395261 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 173 
+T2 - T1  - 0.316856 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 174 
+T2 - T1  - 1.044512 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 175 
+T2 - T1  - 2.811638 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000079 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 176 
+T2 - T1  - 9.879861 
+T3 -T2  - 0.000489 
+T4 -T3  - 0.000105 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 177 
+T2 - T1  - 1.148353 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 178 
+T2 - T1  - 1.395310 
+T3 -T2  - 0.000461 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 179 
+T2 - T1  - 1.135492 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 180 
+T2 - T1  - 13.063272 
+T3 -T2  - 0.000493 
+T4 -T3  - 0.000086 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 181 
+T2 - T1  - 0.784563 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000060 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 182 
+T2 - T1  - 5.917064 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000078 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 183 
+T2 - T1  - 1.187399 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000065 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 184 
+T2 - T1  - 1.343317 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 185 
+T2 - T1  - 19.014489 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000188 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 186 
+T2 - T1  - 2.733470 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000111 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 187 
+T2 - T1  - 3.240290 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000106 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 188 
+T2 - T1  - 4.097934 
+T3 -T2  - 0.000487 
+T4 -T3  - 0.000082 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 189 
+T2 - T1  - 3.474225 
+T3 -T2  - 0.000486 
+T4 -T3  - 0.000072 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 190 
+T2 - T1  - 6.189812 
+T3 -T2  - 0.000496 
+T4 -T3  - 0.000120 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 191 
+T2 - T1  - 2.356711 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000211 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 192 
+T2 - T1  - 8.073729 
+T3 -T2  - 0.000505 
+T4 -T3  - 0.000073 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 193 
+T2 - T1  - 20.339683 
+T3 -T2  - 0.000496 
+T4 -T3  - 0.000095 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 194 
+T2 - T1  - 6.306772 
+T3 -T2  - 0.000496 
+T4 -T3  - 0.000092 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 195 
+T2 - T1  - 0.433735 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 196 
+T2 - T1  - 7.749147 
+T3 -T2  - 0.000492 
+T4 -T3  - 0.000092 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 197 
+T2 - T1  - 4.162862 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000096 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 198 
+T2 - T1  - 0.966482 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000105 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 199 
+T2 - T1  - 3.682117 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000116 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 200 
+T2 - T1  - 2.837490 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000073 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 201 
+T2 - T1  - 4.539718 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000084 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 202 
+T2 - T1  - 0.901528 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000064 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 203 
+T2 - T1  - 3.110462 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 204 
+T2 - T1  - 6.124913 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 205 
+T2 - T1  - 0.654693 
+T3 -T2  - 0.000497 
+T4 -T3  - 0.000103 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 206 
+T2 - T1  - 0.784548 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000073 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 207 
+T2 - T1  - 1.538232 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000215 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 208 
+T2 - T1  - 3.045282 
+T3 -T2  - 0.000493 
+T4 -T3  - 0.000085 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 209 
+T2 - T1  - 0.056932 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 210 
+T2 - T1  - 0.810622 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 211 
+T2 - T1  - 0.849599 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000059 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 212 
+T2 - T1  - 4.903560 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 213 
+T2 - T1  - 0.433785 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 214 
+T2 - T1  - 0.641715 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000054 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 215 
+T2 - T1  - 6.969519 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000119 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 216 
+T2 - T1  - 0.147864 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 217 
+T2 - T1  - 1.889079 
+T3 -T2  - 0.000494 
+T4 -T3  - 0.000077 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 218 
+T2 - T1  - 0.186883 
+T3 -T2  - 0.000459 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 219 
+T2 - T1  - 0.186936 
+T3 -T2  - 0.000471 
+T4 -T3  - 0.000053 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 220 
+T2 - T1  - 0.095988 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000047 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 221 
+T2 - T1  - 4.565746 
+T3 -T2  - 0.000491 
+T4 -T3  - 0.000075 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 222 
+T2 - T1  - 1.083437 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000063 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 223 
+T2 - T1  - 0.316824 
+T3 -T2  - 0.000622 
+T4 -T3  - 0.000066 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 224 
+T2 - T1  - 3.578073 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000072 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 225 
+T2 - T1  - 0.368798 
+T3 -T2  - 0.000465 
+T4 -T3  - 0.000062 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 226 
+T2 - T1  - 7.567222 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000087 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 227 
+T2 - T1  - 4.071830 
+T3 -T2  - 0.000494 
+T4 -T3  - 0.000108 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 228 
+T2 - T1  - 1.122377 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000069 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 229 
+T2 - T1  - 2.278878 
+T3 -T2  - 0.000508 
+T4 -T3  - 0.000081 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 230 
+T2 - T1  - 0.459733 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000060 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 231 
+T2 - T1  - 0.485740 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 232 
+T2 - T1  - 3.474302 
+T3 -T2  - 0.000484 
+T4 -T3  - 0.000070 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 233 
+T2 - T1  - 4.214880 
+T3 -T2  - 0.000486 
+T4 -T3  - 0.000136 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 234 
+T2 - T1  - 7.787995 
+T3 -T2  - 0.000496 
+T4 -T3  - 0.000100 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 235 
+T2 - T1  - 2.460722 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000069 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 236 
+T2 - T1  - 4.136931 
+T3 -T2  - 0.000485 
+T4 -T3  - 0.000087 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 237 
+T2 - T1  - 2.096936 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000068 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 238 
+T2 - T1  - 0.667667 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 239 
+T2 - T1  - 27.824043 
+T3 -T2  - 0.000497 
+T4 -T3  - 0.000111 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 240 
+T2 - T1  - 1.849999 
+T3 -T2  - 0.000492 
+T4 -T3  - 0.000116 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 241 
+T2 - T1  - 0.043906 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000061 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 242 
+T2 - T1  - 10.048962 
+T3 -T2  - 0.000489 
+T4 -T3  - 0.000088 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 243 
+T2 - T1  - 14.089882 
+T3 -T2  - 0.000488 
+T4 -T3  - 0.000093 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 244 
+T2 - T1  - 5.007442 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000071 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 245 
+T2 - T1  - 1.330316 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000070 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 246 
+T2 - T1  - 1.551232 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000060 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 247 
+T2 - T1  - 15.038475 
+T3 -T2  - 0.000489 
+T4 -T3  - 0.000102 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 248 
+T2 - T1  - 15.376157 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000082 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 249 
+T2 - T1  - 2.967476 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000066 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 250 
+T2 - T1  - 1.551249 
+T3 -T2  - 0.000481 
+T4 -T3  - 0.000056 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 251 
+T2 - T1  - 16.662683 
+T3 -T2  - 0.000495 
+T4 -T3  - 0.000086 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 252 
+T2 - T1  - 0.589665 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000059 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 253 
+T2 - T1  - 0.394823 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000055 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 254 
+T2 - T1  - 0.134966 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000051 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 255 
+T2 - T1  - 7.813906 
+T3 -T2  - 0.000495 
+T4 -T3  - 0.000105 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 256 
+T2 - T1  - 4.292780 
+T3 -T2  - 0.000482 
+T4 -T3  - 0.000077 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 257 
+T2 - T1  - 3.461247 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000070 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 258 
+T2 - T1  - 0.030990 
+T3 -T2  - 0.000483 
+T4 -T3  - 0.000062 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 259 
+T2 - T1  - 0.212909 
+T3 -T2  - 0.000478 
+T4 -T3  - 0.000053 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 260 
+T2 - T1  - 1.122477 
+T3 -T2  - 0.000466 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 261 
+T2 - T1  - 2.902601 
+T3 -T2  - 0.000477 
+T4 -T3  - 0.000057 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 262 
+T2 - T1  - 1.798105 
+T3 -T2  - 0.000476 
+T4 -T3  - 0.000059 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 263 
+T2 - T1  - 9.152433 
+T3 -T2  - 0.000490 
+T4 -T3  - 0.000097 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 264 
+T2 - T1  - 6.956481 
+T3 -T2  - 0.000489 
+T4 -T3  - 0.000082 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 265 
+T2 - T1  - 9.269329 
+T3 -T2  - 0.000487 
+T4 -T3  - 0.000076 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 266 
+T2 - T1  - 13.778072 
+T3 -T2  - 0.000489 
+T4 -T3  - 0.000103 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 267 
+T2 - T1  - 17.754043 
+T3 -T2  - 0.000496 
+T4 -T3  - 0.000088 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 268 
+T2 - T1  - 0.043917 
+T3 -T2  - 0.000479 
+T4 -T3  - 0.000058 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 269 
+T2 - T1  - 0.810622 
+T3 -T2  - 0.000480 
+T4 -T3  - 0.000065 
+Entering server Send 
+return val - 0 
+Stage2
+Waiting for ReadyIn
+Stage3
+Read from SPI_ID_R3: FF FF FF FF FF E9  07  20  12 
+SPI Device is fine4
+send_all 256  - 3 
+Send successful - 256 count = 270 
+T2 - T1  
